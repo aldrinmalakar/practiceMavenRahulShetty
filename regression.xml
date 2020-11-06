@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="C:/Users/aldri/IdeaProjects/practiceMavenRahulShetty/src/test/java">
+        <classes>
+            <class name="RestAPITest"/>
+<!--            <class name="SeleniumTest"/>-->
+            <class name="TestNGTest"/>
+        </classes>
+    </test>
+</suite>

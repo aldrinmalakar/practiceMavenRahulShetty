@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-06T01:20:29 EST" name="All Test Suite" finished-at="2020-11-06T01:20:29 EST" duration-ms="202">
+    <groups>
+    </groups>
+    <test started-at="2020-11-06T01:20:29 EST" name="C:/Users/aldri/IdeaProjects/practiceMavenRahulShetty/src/test/java" finished-at="2020-11-06T01:20:29 EST" duration-ms="202">
+      <class name="TestNGTest">
+        <test-method signature="testNGNumberONE()[pri:0, instance:TestNGTest@28d18df5]" started-at="2020-11-06T01:20:29 EST" name="testNGNumberONE" finished-at="2020-11-06T01:20:29 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNGNumberONE -->
+        <test-method signature="testNGNumberTwo()[pri:0, instance:TestNGTest@28d18df5]" started-at="2020-11-06T01:20:29 EST" name="testNGNumberTwo" finished-at="2020-11-06T01:20:29 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNGNumberTwo -->
+      </class> <!-- TestNGTest -->
+      <class name="SeleniumTest">
+        <test-method signature="initiateBrowserAutomation()[pri:0, instance:SeleniumTest@4032d386]" started-at="2020-11-06T01:20:29 EST" name="initiateBrowserAutomation" finished-at="2020-11-06T01:20:29 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateBrowserAutomation -->
+        <test-method signature="initiateLoginAutomation()[pri:0, instance:SeleniumTest@4032d386]" started-at="2020-11-06T01:20:29 EST" name="initiateLoginAutomation" finished-at="2020-11-06T01:20:29 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateLoginAutomation -->
+      </class> <!-- SeleniumTest -->
+      <class name="RestAPITest">
+        <test-method signature="RestAPIFirstMethod()[pri:0, instance:RestAPITest@1d483de4]" started-at="2020-11-06T01:20:29 EST" name="RestAPIFirstMethod" finished-at="2020-11-06T01:20:29 EST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIFirstMethod -->
+        <test-method signature="RestAPISecondMethod()[pri:0, instance:RestAPITest@1d483de4]" started-at="2020-11-06T01:20:29 EST" name="RestAPISecondMethod" finished-at="2020-11-06T01:20:29 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPISecondMethod -->
+      </class> <!-- RestAPITest -->
+    </test> <!-- C:/Users/aldri/IdeaProjects/practiceMavenRahulShetty/src/test/java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
